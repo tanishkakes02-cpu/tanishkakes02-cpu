@@ -17,7 +17,7 @@
 
 I'm **Tanishka**, a **Computer Science & Engineering student** passionate about turning data into insights and code into solutions.
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering (CSE)**
+- 🎓 Pursuing **B.Tech in CSE** @ **ABES Institute of Technology, Ghaziabad**
 - 🌱 Currently learning: **Python, Machine Learning, Data Analysis, DSA**
 - 🎯 Goal: Build real-world data & ML projects that solve genuine problems
 - 💡 Mindset: "Learn by doing — every line of code is progress"
